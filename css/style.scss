@@ -56,7 +56,7 @@ html {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url(/img/IMAGE.jpg);
+    background-image: url(../img/IMAGE.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     .hero__container {
@@ -142,7 +142,7 @@ html {
 .foto {
     margin: 0 auto;
     height: 660px;
-    background-image: url(/img/foto.jpg);
+    background-image: url(../img/foto.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
